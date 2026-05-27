@@ -1276,6 +1276,9 @@ footer a {
   gap: 15.5rem;
   border-top: 1px solid #eee;
   padding-top: 1.9rem;
+  background-image: url(https://www.twoleavestea.com/cdn/shop/files/footer-extended_1.png?v=1771834074);
+  background-position: center;
+  background-size: cover;
 }
 .footer-logo {
   width: 100%;
